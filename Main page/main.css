@@ -24,6 +24,10 @@ nav{
     text-align: center;
     width: 10%;
 }
+.head{
+    margin-left: 15px;
+
+}
 .navHeader{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
@@ -38,8 +42,7 @@ nav{
     align-items: center;
     width: 100%;
     text-align: center;
-    background-color: black;
-    border: 2px solid red;
+    position: relative;
 }
 .textContainer{
     color: white;
@@ -112,7 +115,7 @@ form{
    
 }
 .btn{
-    padding: 15px;
+    padding: 15px 25px;
     border: 2px solid red;
     font-size: 15px;
     background-color: black;

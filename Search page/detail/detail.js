@@ -31,6 +31,7 @@ const loadDetails = async () => {
       console.log(inr, usd, eur, gbp);
   
       const card = document.createElement("div")
+      card.classList ="card"
       const logoImg = document.createElement("img")
       logoImg.src = logo
       const descDiv = document.createElement("p")

@@ -1,0 +1,28 @@
+#searchSectionMainContainer33{
+    padding: 35px 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 100%;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+p{
+    width: 70%;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.navHeader{
+    margin-left: 10px;
+
+}
