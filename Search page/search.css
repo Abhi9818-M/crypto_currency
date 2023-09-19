@@ -1,0 +1,36 @@
+
+.topcoinsCardSearchContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 0px 10px;
+    width: 80%;
+    box-shadow: 1px 1px 50px 2px red;
+    
+}
+#searchResultContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+body{
+    color: rgb(225, 225, 225);
+}
+hr{
+   margin-bottom: 10px;
+    border: 1px solid red;
+}
+a{
+    text-decoration: none;
+    color: rgb(219, 163, 43);
+}
+.nameAndPriceContainerTopCoins{
+    width: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
